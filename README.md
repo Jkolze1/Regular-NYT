@@ -4,4 +4,5 @@ This uses HTML, Bootstrap, and JavaScript.<br>
 https://jkolze1.github.io/Regular-NYT/nyt 
 <br> 
 <br>
+<br>
 ![Home](/img/photo.png 'Screenshot')
