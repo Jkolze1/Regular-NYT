@@ -3,4 +3,4 @@ This a New York Times search site. It grabs articles based on user input and dis
 <br> 
 <br>
 
-![Home](/img/photo.png 'Screenshot')
+![Home](/img/nyt-search.png 'Screenshot')
